@@ -1027,8 +1027,8 @@ img {
   justify-content: space-between;
   overflow: auto;
   opacity: 1;
-  visibility: visible;
-  pointer-events: none;
+  visibility: hidden;
+  pointer-events: visible;
 }
 
 .mob-close-button {
